@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+outputs/*
+!outputs/.gitkeep
+data/events.csv
